@@ -1,2 +1,0 @@
-
-curl --request get https://www.instagram.com/oauth/authorize?client_id=248475060137458&redirect_uri=https://starprogrammer.github.io/auth/&scope=user_profile,user_media,response_type=code
